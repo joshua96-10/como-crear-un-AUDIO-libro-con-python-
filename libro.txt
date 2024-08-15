@@ -1,0 +1,9 @@
+python Se trata de un lenguaje open source en el que destaca su legibilidad. El código es limpio y ordenado,
+lo cual convierte a Python en un lenguaje cómodo de leer y escribir. En definitiva: un lenguaje de
+programación fácil de entender y aprender.
+Al contrario que otros lenguajes de programación como C o Java, Python es un lenguaje
+interpretado, lo que significa que no es necesario compilar el código de Python antes de ejecutarlo.
+El intérprete irá analizando y ejecutando el código línea por línea.
+Otra de las principales características de Python es que es que es un lenguaje de programación
+dinámicamente tipado, es decir, el programador no tiene que declarar el tipo de las variables si no
+que este se deduce automáticamente en el tiempo de ejecución.
